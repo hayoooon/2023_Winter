@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bak_10807",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bak_10807::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bak_10807-Debug-33caf46b6157a4fccea2.json",
+					"name" : "bak_10807",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yunzzang/School/23_\uaca8\uc6b8/\ubaa8\uac01\uc18c/23-Winter/Week2/bak_10807/cmake-build-debug",
+		"source" : "/Users/yunzzang/School/23_\uaca8\uc6b8/\ubaa8\uac01\uc18c/23-Winter/Week2/bak_10807"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
