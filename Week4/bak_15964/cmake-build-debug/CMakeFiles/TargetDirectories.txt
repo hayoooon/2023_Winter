@@ -1,0 +1,3 @@
+/Users/yunzzang/School/23_겨울/모각소/code/Week4/bak_15964/cmake-build-debug/CMakeFiles/bak_15964.dir
+/Users/yunzzang/School/23_겨울/모각소/code/Week4/bak_15964/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yunzzang/School/23_겨울/모각소/code/Week4/bak_15964/cmake-build-debug/CMakeFiles/rebuild_cache.dir
