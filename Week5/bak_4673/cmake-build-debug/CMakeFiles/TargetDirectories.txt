@@ -1,0 +1,3 @@
+/Users/yunzzang/School/23_겨울/모각소/2023_Winter/Week5/bak_4673/cmake-build-debug/CMakeFiles/bak_4673.dir
+/Users/yunzzang/School/23_겨울/모각소/2023_Winter/Week5/bak_4673/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yunzzang/School/23_겨울/모각소/2023_Winter/Week5/bak_4673/cmake-build-debug/CMakeFiles/rebuild_cache.dir
